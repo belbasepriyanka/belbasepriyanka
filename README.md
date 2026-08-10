@@ -1,391 +1,124 @@
-# 👋 Hi, I'm Priyanka Belbase
+# Hi, I'm Priyanka Belbase 👋
 
-### 🛰️ Remote Sensing Scientist | 🌍 Earth Observation | 🗺️ GIS & Geospatial Analytics | 🐍 Python | 🤖 Geospatial AI
+### 🛰️ Remote Sensing | 🗺️ GIS | 🤖 GeoAI | 🌍 Earth Observation | 🌱 Environmental & Agricultural Data Science
 
-I am a **Ph.D. researcher in Earth System Science** specializing in **remote sensing, Earth observation, GIS, geospatial analytics, environmental monitoring, vegetation science, hydrology, and precision agriculture**.
+I am a **Ph.D. candidate in Earth System Science at Florida International University** working at the intersection of **remote sensing, GIS, hyperspectral sensing, machine learning, vegetation science, precision agriculture, and environmental monitoring**.
 
-My work integrates **satellite imagery, UAV observations, hyperspectral/spectral data, GIS, Python, machine learning, and field measurements** to address environmental and agricultural challenges.
-
----
-
-## 🔬 Research Interests
-
-* 🛰️ Remote Sensing & Earth Observation
-* 🌱 Vegetation & Agricultural Remote Sensing
-* 🌾 Precision Agriculture
-* 💧 Hydrological & Environmental Remote Sensing
-* 🌈 Hyperspectral & Multispectral Remote Sensing
-* 🚁 UAV/Drone Remote Sensing
-* 🗺️ GIS & Geospatial Analytics
-* 🤖 Machine Learning & Geospatial AI
-* 🌍 Environmental Monitoring
-* 📊 Spatial & Temporal Data Analysis
-* 🌿 Crop & Vegetation Modeling
-* 🛰️ Satellite Image Processing
+My work combines **satellite imagery, UAV observations, hyperspectral reflectance, GIS, Python, Google Earth Engine, machine learning, and field measurements** to understand vegetation condition, plant stress, land-surface change, and environmental processes.
 
 ---
 
-## 🧰 Technical Skills
+## 🔬 What I Work On
 
-### 🛰️ Remote Sensing & Earth Observation
-
-
-
-\
-
-* Landsat
-* Sentinel-2
-* MODIS
-* Planet imagery
-* NAIP
-* UAV/drone imagery
-* Hyperspectral and multispectral data
-* Spectral reflectance analysis
-* Image preprocessing
-* Image classification
-* Change detection
-* Vegetation monitoring
-
-### 🗺️ GIS & Geospatial
-
-* ArcGIS Pro
-* ArcGIS Online
-* ArcGIS Experience Builder
-* ArcGIS Field Maps
-* QGIS
-* Google Earth Engine
-* Spatial analysis
-* Raster and vector processing
-* DEM analysis
-* Watershed delineation
-* Terrain analysis
-* Geospatial database concepts
-
-### 🐍 Programming & Data Science
-
-```text
-Python
-R
-SQL
-JavaScript
-ArcPy
-Jupyter
-```
-
-Python libraries and tools:
-
-```text
-NumPy
-Pandas
-GeoPandas
-Rasterio
-GDAL
-scikit-learn
-Matplotlib
-```
-
-### 🤖 Machine Learning
-
-* Random Forest
-* Support Vector Machine (SVM)
-* K-Nearest Neighbors (KNN)
-* Gradient Boosting
-* Principal Component Analysis (PCA)
-* Classification
-* Regression
-* Feature engineering
-* Model evaluation
-* Geospatial machine learning
-
-### 🌱 Vegetation & Agricultural Remote Sensing
-
-* NDVI
-* NDWI
-* GNDVI
-* GRVI
-* RVI
-* Vegetation monitoring
-* Crop growth assessment
-* Plant health assessment
-* Precision agriculture
-* Spectral analysis
-* Agricultural field experiments
-
-### 💧 Hydrology & Environmental Applications
-
-* Watershed delineation
-* DEM analysis
-* Flow direction
-* Flow accumulation
-* Stream extraction
-* Flood mapping
-* Floodplain characterization
-* Water/environmental monitoring
-* Hydrologic GIS analysis
+- 🌈 **Hyperspectral & multispectral remote sensing** for plant health, nutrient status, disease, and stress detection
+- 🛰️ **Satellite Earth observation** using Sentinel-1, Sentinel-2, Landsat, and related datasets
+- 🌱 **Vegetation monitoring & precision agriculture**
+- 🤖 **Machine learning and GeoAI** for geospatial classification and prediction
+- 🌊 **SAR change detection and flood mapping**
+- 🌳 **LiDAR vegetation and terrain analysis**
+- 🗺️ **GIS and spatial analysis** for environmental applications
+- 📊 **Reproducible geospatial workflows** using Python and Google Earth Engine
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
 
-## 🛰️ Satellite Remote Sensing Analysis
+### 🌈 [Hyperspectral Plant Stress ML](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml)
+Machine-learning workflow for plant stress classification using hyperspectral reflectance, spectral features, PCA, Random Forest, and SVM.
 
-**Goal:** Develop reproducible workflows for processing and analyzing satellite imagery for environmental and agricultural applications.
-
-**Technologies:**
-
-`Python` `Google Earth Engine` `Landsat` `Sentinel-2` `Rasterio` `GeoPandas`
-
-**Applications:**
-
-* Satellite image preprocessing
-* Vegetation-index calculation
-* Environmental monitoring
-* Time-series analysis
-* Land-surface characterization
-
-🔗 **Repository:** Coming soon
+**Skills:** `Hyperspectral Remote Sensing` `Python` `PCA` `Random Forest` `SVM` `Plant Stress`
 
 ---
 
-## 🌱 Vegetation Monitoring Using Satellite Imagery
+### 🛰️ [Sentinel-2 Vegetation Health Monitoring](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring)
+Vegetation-health monitoring using Sentinel-2 time series, NDVI, NDRE, GNDVI, NDWI, and temporal anomaly screening.
 
-Analysis of vegetation dynamics using multispectral satellite imagery and vegetation indices.
-
-### Key analyses
-
-* NDVI
-* NDWI
-* GNDVI
-* GRVI
-* RVI
-* Temporal vegetation trends
-* Vegetation health assessment
-
-**Tools:** Python, Google Earth Engine, Landsat, Sentinel-2
-
-🔗 **Repository:** Coming soon
+**Skills:** `Sentinel-2` `Google Earth Engine` `Python` `Vegetation Indices` `Time Series`
 
 ---
 
-## 🌾 Precision Agriculture & Crop Remote Sensing
+### 🌱 [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture)
+Research-focused portfolio connecting plant spectroscopy, nutrient assessment, vegetation monitoring, and precision-agriculture applications in dragon fruit.
 
-Remote sensing and geospatial analysis for agricultural monitoring and crop research.
-
-### Applications
-
-* Crop growth monitoring
-* Vegetation assessment
-* Spectral analysis
-* Field-scale variability
-* UAV and satellite imagery integration
-* Machine-learning-based analysis
-
-**Tools:** Python, GIS, Google Earth Engine, UAV imagery, satellite imagery
-
-🔗 **Repository:** Coming soon
+**Skills:** `Plant Spectroscopy` `Precision Agriculture` `Vegetation Monitoring` `GIS` `Remote Sensing`
 
 ---
 
-## 💧 Hydrologic Remote Sensing & GIS
+### 🤖 [Geospatial Land-Cover ML](https://github.com/belbasepriyanka/geospatial-land-cover-ml)
+Random Forest land-cover classification with multispectral features and spatial-block validation to reduce spatial data leakage.
 
-Geospatial workflows for hydrologic and environmental applications.
-
-### Key workflows
-
-```text
-DEM
- ↓
-Terrain Processing
- ↓
-Flow Direction
- ↓
-Flow Accumulation
- ↓
-Stream Delineation
- ↓
-Watershed Analysis
- ↓
-Environmental Mapping
-```
-
-**Tools:** ArcGIS Pro, Python, QGIS, Remote Sensing
-
-🔗 **Repository:** Coming soon
+**Skills:** `GeoAI` `Random Forest` `Spatial Validation` `Land Cover` `Python`
 
 ---
 
-## 🌈 Hyperspectral & Spectral Analysis
+### 🌊 [SAR Flood Mapping & Change Detection](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection)
+Sentinel-1 SAR workflow for pre/post-event change detection, potential flood screening, and classification evaluation.
 
-Analysis of spectral information for vegetation and environmental applications.
-
-### Research applications
-
-* Spectral reflectance analysis
-* Hyperspectral data processing
-* Vegetation characterization
-* Nutrient assessment
-* Spectral feature extraction
-* Remote sensing-based environmental monitoring
-
-**Tools:** Python, spectroscopy, hyperspectral data, statistical analysis
-
-🔗 **Repository:** Coming soon
+**Skills:** `Sentinel-1` `SAR` `Flood Mapping` `Change Detection` `Google Earth Engine`
 
 ---
 
-## 🤖 Geospatial Machine Learning
+### 🌳 [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis)
+LiDAR workflow demonstrating terrain and vegetation analysis through DTM, DSM, canopy-height modeling, and vegetation-structure metrics.
 
-Machine-learning workflows for Earth observation and environmental datasets.
-
-### Models
-
-```text
-Random Forest
-SVM
-KNN
-Gradient Boosting
-PCA
-```
-
-### Applications
-
-* Remote sensing classification
-* Environmental prediction
-* Feature selection
-* Geospatial pattern recognition
-* Satellite-image analysis
-
-**Tools:** Python, scikit-learn, Pandas, NumPy, Jupyter
-
-🔗 **Repository:** Coming soon
+**Skills:** `LiDAR` `DTM` `DSM` `CHM` `Vegetation Structure` `Python`
 
 ---
 
-# 🎓 Research
+## 🧰 Technical Toolkit
 
-My doctoral research integrates **remote sensing, field observations, spectroscopy, GIS, and environmental/agricultural analysis** to investigate plant growth and environmental responses under different growing conditions.
-
-### Research components
-
-* Field experimentation
-* Spectral measurements
-* Satellite remote sensing
-* UAV observations
-* Vegetation indices
-* Soil and plant nutrient analysis
-* GIS analysis
-* Statistical modeling
-* Machine learning
-* Environmental monitoring
-
-My research interests extend toward the integration of **Earth observation and geospatial AI for agriculture, vegetation, hydrology, and environmental systems**.
+| Area | Tools & Methods |
+|---|---|
+| **Remote Sensing** | Sentinel-1, Sentinel-2, Landsat, hyperspectral & multispectral data, UAV imagery, LiDAR |
+| **GIS** | ArcGIS Pro, QGIS, Google Earth Engine, spatial analysis, raster & vector processing |
+| **Programming** | Python, R, SQL, JavaScript, ArcPy |
+| **Python** | NumPy, Pandas, GeoPandas, Rasterio, GDAL, scikit-learn, Matplotlib |
+| **Machine Learning** | Random Forest, SVM, KNN, Gradient Boosting, PCA, classification & regression |
+| **Vegetation Analytics** | NDVI, NDRE, GNDVI, NDWI, spectral reflectance, red-edge analysis, time-series monitoring |
+| **Environmental Analysis** | Change detection, flood mapping, terrain analysis, watershed analysis, vegetation monitoring |
 
 ---
 
-# 📚 Research & Publications
+## 🎓 Research Focus
 
-My research has contributed to topics including:
+My doctoral research integrates **field experiments, plant and soil measurements, hyperspectral reflectance, vegetation indices, GIS, and statistical analysis** to study plant growth, nutrient status, and environmental responses under different growing conditions.
 
-* Remote sensing
-* Spectral analysis
-* Agricultural remote sensing
-* Vegetation monitoring
-* Soil and plant nutrient analysis
-* Hydrology
-* GIS
-* Earth observation
-
-📖 **Google Scholar:** https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao 
+A major direction of my work is the development of **remote-sensing and AI methods for earlier detection of plant nutrient stress, disease, vegetation change, and environmental risk**.
 
 ---
 
-# 🏆 Research & Professional Experience
+## 📚 Publications & Research
 
-* Ph.D. Researcher — Earth System Science
-* Remote Sensing & GIS Research
-* Agricultural and Environmental Research
-* Satellite and UAV Image Analysis
-* Spectral Analysis
-* Geospatial Data Science
-* Machine Learning
-* Scientific Data Analysis
-* Research Collaboration
-* Teaching and Student Support
+My research includes work in:
+
+`Remote Sensing` • `Hyperspectral Sensing` • `Precision Agriculture` • `Plant Nutrient Assessment` • `Vegetation Monitoring` • `Environmental Science` • `GIS`
+
+📖 [Google Scholar](https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao)
 
 ---
 
-# 🌍 Data & Platforms
+## 🌍 Current Interests
 
-| Category    | Technologies                             |
-| ----------- | ---------------------------------------- |
-| Satellite   | Landsat, Sentinel-2, MODIS, Planet, NAIP |
-| UAV         | Drone/UAV imagery                        |
-| GIS         | ArcGIS Pro, ArcGIS Online, QGIS          |
-| Cloud       | Google Earth Engine                      |
-| Programming | Python, R, SQL, JavaScript               |
-| ML          | Scikit-learn                             |
-| Raster      | GDAL, Rasterio                           |
-| Data        | GeoTIFF, NetCDF, GeoJSON, Shapefile      |
-| Analysis    | NumPy, Pandas, GeoPandas                 |
+I am especially interested in opportunities and collaborations involving:
 
----
-
-# 📈 Current Focus
-
-I am particularly interested in developing research and applications at the intersection of:
-
-```text
-Remote Sensing
-       +
-Earth Observation
-       +
-GIS
-       +
-Python
-       +
-Machine Learning
-       +
-Environmental Science
-       +
-Agriculture
-       +
-Hydrology
-```
-
-My goal is to develop **reproducible, scalable geospatial workflows** that transform satellite and aerial observations into meaningful scientific and environmental insights.
+- Remote sensing and Earth observation
+- GeoAI and geospatial data science
+- Hyperspectral and multispectral imaging
+- Vegetation and crop monitoring
+- Precision agriculture
+- Environmental change detection
+- SAR and LiDAR applications
+- Satellite, UAV, and field-data integration
 
 ---
 
-# 🤝 Collaboration
+## 📫 Connect With Me
 
-I am interested in collaborating on projects involving:
-
-* Remote sensing
-* Earth observation
-* Geospatial data science
-* Environmental monitoring
-* Precision agriculture
-* Vegetation analysis
-* Hydrology
-* Hyperspectral remote sensing
-* UAV/satellite data integration
-* Machine learning
-* Geospatial AI
+📧 [Email](mailto:belbase.priyanka@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/priyanka-belbase/)  
+📚 [Google Scholar](https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao)  
+🐙 [GitHub](https://github.com/belbasepriyanka)
 
 ---
 
-# 📫 Let's Connect
-
-📧 **Email:** [belbase.priyanka@gmail.com](mailto:belbase.priyanka@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/priyanka-belbase/
-
-📚 **Google Scholar:** https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao
-
-🐙 **GitHub:** https://github.com/belbasepriyanka
-
----
-
-### ⭐ If you find my work useful, feel free to star the repositories and connect with me!
-
-**Remote Sensing • Earth Observation • GIS • Geospatial AI • Precision Agriculture • Hydrology**
+**Remote Sensing • GIS • GeoAI • Earth Observation • Hyperspectral Sensing • Precision Agriculture • Environmental Data Science**
