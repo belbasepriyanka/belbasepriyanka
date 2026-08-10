@@ -2,7 +2,7 @@
 
 ### 🛰️ Remote Sensing | 🗺️ GIS | 🤖 GeoAI | 🌍 Earth Observation | 🌱 Environmental & Agricultural Data Science
 
-I am a **Ph.D. candidate in Earth System Science at Florida International University** working at the intersection of **remote sensing, GIS, hyperspectral sensing, machine learning, vegetation science, precision agriculture, and environmental monitoring**.
+I hold a **Ph.D. in Earth System Science from Florida International University** and work at the intersection of **remote sensing, GIS, hyperspectral sensing, machine learning, vegetation science, precision agriculture, and environmental monitoring**.
 
 My work combines **satellite imagery, UAV observations, hyperspectral reflectance, GIS, Python, Google Earth Engine, machine learning, and field measurements** to understand vegetation condition, plant stress, land-surface change, and environmental processes.
 
