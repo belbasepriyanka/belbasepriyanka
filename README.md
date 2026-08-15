@@ -46,21 +46,36 @@ Random Forest land-cover classification emphasizing **spatial-block validation**
 
 > Portfolio demonstration: synthetic samples are used so the workflow can be reproduced without proprietary training data.
 
-### 4. [SAR Flood Mapping & Change Detection](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection)
+### 4. [Geospatial Raster ETL & QA/QC Pipeline](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/geospatial-raster-etl-qaqc)
+Applied raster data-engineering workflow for **metadata validation, mosaicking, clipping, QA/QC reporting, and analysis-ready output generation**.
+
+**Tools:** `Python` `Rasterio` `NumPy` `Pandas` `Raster QA/QC` `Metadata` `Reproducibility`
+
+### 5. [Spatial Validation Benchmark](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/spatial-validation-benchmark)
+Benchmark comparing **random train/test splitting with spatial-block holdout** to show how validation design affects geospatial model credibility.
+
+**Tools:** `Python` `scikit-learn` `Random Forest` `Spatial Validation` `Accuracy` `Precision` `Recall` `F1`
+
+### 6. [Terrain & Hydrology Modeling](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/terrain-hydrology-modeling)
+DEM-based workflow deriving **slope, D8 flow direction, flow accumulation, and a stream-network proxy** for environmental analysis.
+
+**Tools:** `Python` `DEM` `Terrain Analysis` `Hydrology` `Flow Accumulation` `Environmental Modeling`
+
+### 7. [SAR Flood Mapping & Change Detection](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection)
 Sentinel-1 SAR workflow for **pre/post-event change detection, flood screening, backscatter interpretation, and classification evaluation**.
 
 **Tools:** `Sentinel-1` `SAR` `Flood Mapping` `Change Detection` `Google Earth Engine` `Python`
 
 > The Earth Engine workflow is designed for Sentinel-1 GRD data; the local Python example uses synthetic arrays for reproducibility.
 
-### 5. [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis)
+### 8. [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis)
 LiDAR workflow demonstrating **terrain and vegetation analysis through DTM, DSM, canopy-height modeling, and vegetation-structure metrics**.
 
 **Tools:** `LiDAR` `DTM` `DSM` `CHM` `Vegetation Structure` `Python`
 
 > Portfolio demonstration: the runnable example uses a synthetic point cloud and is designed to be extended to LAS/LAZ workflows.
 
-### 6. [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture)
+### 9. [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture)
 Research-oriented portfolio connecting **plant spectroscopy, nutrient assessment, vegetation monitoring, GIS, remote sensing, and precision-agriculture applications** in dragon fruit.
 
 **Focus:** `Hyperspectral Remote Sensing` `Plant Spectroscopy` `Precision Agriculture` `Vegetation Monitoring` `GIS`
@@ -125,14 +140,12 @@ My peer-reviewed and ongoing research covers **remote sensing, hyperspectral sen
 
 I am continuing to expand this portfolio in areas directly relevant to applied geospatial data science, including:
 
-- Geospatial raster ETL and data-engineering workflows
-- Accuracy assessment and spatial validation
-- Terrain and hydrologic processing
 - Enterprise geodatabases and spatial databases
 - Multi-sensor Earth-observation integration
-- GIS automation and reproducible processing
+- GIS automation and reusable processing components
+- More real-data validation examples and technical handoff materials
 
-Projects listed as demonstrations or in development are intentionally labeled as such so that portfolio examples remain distinct from completed research and professional work.
+Projects listed as demonstrations are intentionally labeled as such so that portfolio examples remain distinct from completed research and professional work.
 
 ---
 
