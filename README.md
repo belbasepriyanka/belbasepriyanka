@@ -1,12 +1,32 @@
-# Priyanka Belbase
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/315441788?v=4" width="150" alt="Priyanka Belbase profile photo" />
+</p>
 
-### Geospatial Data Science | Remote Sensing | GeoAI | Earth Observation | Environmental Modeling
+<h1 align="center">Priyanka Belbase</h1>
+
+<p align="center">
+  <strong>Agricultural Data Science | Remote Sensing | GeoAI | Machine Learning | Precision Agriculture</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-blue?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Remote%20Sensing-Earth%20Observation-green" alt="Remote Sensing" />
+  <img src="https://img.shields.io/badge/GeoAI-Machine%20Learning-purple" alt="GeoAI" />
+  <img src="https://img.shields.io/badge/GIS-ArcGIS%20%7C%20GEE-orange" alt="GIS" />
+  <img src="https://img.shields.io/badge/Precision%20Agriculture-Crop%20Analytics-brightgreen" alt="Precision Agriculture" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanka-belbase/">LinkedIn</a> •
+  <a href="https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao">Google Scholar</a> •
+  <a href="mailto:belbase.priyanka@gmail.com">Email</a>
+</p>
+
+---
 
 I am completing a **Ph.D. in Earth System Science at Florida International University** and work at the intersection of **remote sensing, GIS, Python, machine learning, environmental science, and Earth observation**.
 
 My work combines **satellite imagery, UAV observations, hyperspectral reflectance, field measurements, GIS, Python, and Google Earth Engine** to study vegetation condition, plant stress, land-surface change, flood risk, and other environmental processes. I am especially interested in building **reproducible geospatial workflows** that move from data acquisition and quality control through analysis, validation, visualization, and decision-support products.
-
-[LinkedIn](https://www.linkedin.com/in/priyanka-belbase/) • [Google Scholar](https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao) • [Email](mailto:belbase.priyanka@gmail.com)
 
 ---
 
@@ -119,7 +139,14 @@ Research-oriented portfolio connecting **plant spectroscopy, nutrient assessment
 
 ## End-to-End Workflow I Use
 
-**Acquire data → inspect quality → clean and harmonize → engineer features → analyze/model → validate → document → visualize → communicate results**
+```mermaid
+flowchart LR
+    A[Satellite / UAV / Field / Lab Data] --> B[QA/QC & Harmonization]
+    B --> C[Feature Engineering]
+    C --> D[Statistics & Machine Learning]
+    D --> E[Validation & Explainability]
+    E --> F[Maps / Dashboards / Decision Support]
+```
 
 I work across satellite, UAV, field, laboratory, terrain, and GIS datasets and focus on methods that are **repeatable, well documented, and appropriate to the quality and limitations of the underlying data**.
 
@@ -191,4 +218,4 @@ Projects listed as demonstrations are intentionally labeled as such so that port
 - **Google Scholar:** [Priyanka Belbase](https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao)
 - **Email:** [belbase.priyanka@gmail.com](mailto:belbase.priyanka@gmail.com)
 
-**Geospatial Data Science • Remote Sensing • GeoAI • Earth Observation • Environmental Modeling • GIS • Python**
+**Agricultural Data Science • Remote Sensing • GeoAI • Machine Learning • Precision Agriculture • GIS • Python**
