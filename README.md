@@ -23,6 +23,41 @@ My work combines **satellite imagery, UAV observations, hyperspectral reflectanc
 
 ---
 
+## Agricultural AI & Precision Agriculture Projects
+
+I am extending my South Florida doctoral research into **end-to-end agricultural AI and decision-support projects** that connect field experiments, crop nutrition, hyperspectral sensing, weather, remote sensing, and machine learning. These projects are transparently labeled **In development** until the corresponding repositories and reproducible results are complete.
+
+### 🌱 Dragon Fruit Yield & Phenology Forecasting — *In development*
+**Machine Learning for Dragon Fruit Flowering, Fruit Set, and Yield Forecasting in South Florida**
+
+An explainable ML workflow designed to integrate multi-year field experiments, crop species, nutrient treatments, high-tunnel/open-field environments, plant growth, spectral indicators, and weather variables to model flowering and fruit-set dynamics.
+
+**Planned methods:** `Python` `R` `Random Forest` `Gradient Boosting` `XGBoost` `SHAP` `Grouped Cross-Validation` `Experimental Design`
+
+**Decision question:** Which combinations of crop, management, environmental, nutrient, spectral, and weather factors are most predictive of flowering and fruit-set outcomes?
+
+### 🧪 Dragon Fruit Precision Nutrition & Stress AI — *In development*
+**Multisensor AI for Crop Nutrition and Stress Monitoring in South Florida Dragon Fruit**
+
+A precision-agriculture workflow designed to combine soil chemistry, plant-tissue nutrients, hyperspectral reflectance, vegetation indices, crop-growth measurements, species, treatment, and production environment for nutrient-status and crop-stress modeling.
+
+**Planned methods:** `Hyperspectral Remote Sensing` `Soil & Tissue Analytics` `PCA` `Random Forest` `SVM` `XGBoost` `Feature Importance` `Decision Support`
+
+**Decision question:** Can spectral and environmental measurements provide reliable early indicators of plant nutrient status and stress when validated against field and laboratory measurements?
+
+### 🔬 AI Dragon Fruit Disease Scouting & Decision Support — *In development*
+**Explainable AI and Hyperspectral Decision Support for Early Crop Disease Scouting**
+
+An end-to-end extension of my peer-reviewed plant-disease spectroscopy research, moving from spectral classification toward a reproducible scouting workflow with preprocessing, feature engineering, model validation, disease-risk scoring, explainability, and an interactive decision-support interface.
+
+**Planned methods:** `Hyperspectral Spectroscopy` `Random Forest` `SVM` `PCA` `Cross-Validation` `Explainable AI` `Streamlit / Dashboard`
+
+**Decision question:** How can validated spectral-ML outputs be translated into practical scouting priorities rather than remaining only as research-model predictions?
+
+> **Transferability:** These projects use dragon fruit because I have real field, nutrient, spectral, disease, and experimental data from South Florida. The modeling, validation, data-engineering, and decision-support framework is designed to be transferable to other cropping systems when retrained and validated with crop-specific ground truth.
+
+---
+
 ## Featured Projects
 
 ### 1. [Hyperspectral Plant Stress ML](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml)
