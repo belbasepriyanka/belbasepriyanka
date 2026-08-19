@@ -21,9 +21,20 @@
 
 ---
 
-I am completing a **Ph.D. in Earth System Science at Florida International University** and work at the intersection of **agricultural data science, remote sensing, GIS, machine learning, environmental science, and Earth observation**.
+I am completing a **Ph.D. in Earth System Science at Florida International University** and work at the intersection of **agricultural data science, remote sensing, GIS, machine learning, environmental science, Earth observation, and disaster-risk intelligence**.
 
-My work combines **field experiments, plant and soil measurements, hyperspectral reflectance, satellite/UAV observations, Python, GIS, and Google Earth Engine** to build reproducible workflows for crop monitoring, stress/disease screening, environmental analysis, validation, and decision support.
+My work combines **field experiments, plant and soil measurements, hyperspectral reflectance, satellite/UAV observations, Python, GIS, and Google Earth Engine** to build reproducible workflows for crop monitoring, stress/disease screening, flood-event mapping, environmental analysis, validation, and decision support.
+
+## 🌊 Featured Disaster-Risk Project
+
+### [AI Flood Intelligence & Event Mapping](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection)
+**Sentinel-1 SAR • flood detection • change detection • event mapping • uncertainty • exposure/risk intelligence • FastAPI • Streamlit**
+
+An end-to-end disaster-intelligence project built around pre/post SAR analysis, terrain and permanent-water screening, validation, flood confidence, threshold-ensemble uncertainty, population/road/critical-asset exposure, analyst prioritization, dashboard review, and API-based platform integration.
+
+**Demo outputs:** Accuracy `0.998` • F1 `0.990` • IoU `0.980` • mapped flood extent • uncertainty layer • exposure summary • analyst priority scoring
+
+> The committed local event is synthetic and exists to demonstrate the workflow reproducibly. Numerical metrics are **not operational flood-mapping accuracy claims**; real deployment requires independent event-specific validation.
 
 ## 🌱 Agricultural AI & Precision Agriculture Portfolio
 
@@ -66,7 +77,6 @@ A broader end-to-end agricultural data-science project connecting a 72-plant exp
 ## 🔬 Other Featured Geospatial Projects
 
 - [Geospatial Land-Cover ML](https://github.com/belbasepriyanka/geospatial-land-cover-ml) — Random Forest with spatial-block validation
-- [SAR Flood Mapping & Change Detection](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection) — Sentinel-1 SAR pre/post-event analysis
 - [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis) — DTM, DSM, CHM and vegetation structure
 - [Geospatial Raster ETL & QA/QC](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/geospatial-raster-etl-qaqc) — reproducible raster engineering
 - [Spatial Validation Benchmark](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/spatial-validation-benchmark) — random split vs spatial holdout
@@ -93,15 +103,15 @@ flowchart LR
 | **Machine Learning** | Random Forest, SVM, Gradient Boosting, PCA, classification, regression, anomaly detection |
 | **GIS** | ArcGIS Pro, ArcGIS Online/Enterprise, QGIS, Google Earth Engine, PostGIS |
 | **Remote Sensing** | Sentinel-1/2, Landsat, PlanetScope, NAIP, hyperspectral/multispectral, UAV, LiDAR |
-| **Validation & QA/QC** | grouped/spatial holdout, confusion matrices, F1, ROC AUC, MAE, R², metadata, data-quality checks |
-| **Decision Support** | Streamlit, ArcGIS Dashboards, Power BI, Tableau |
+| **Validation & QA/QC** | grouped/spatial holdout, confusion matrices, F1, ROC AUC, IoU, MAE, R², metadata, data-quality checks |
+| **Decision Support** | Streamlit, FastAPI, ArcGIS Dashboards, Power BI, Tableau |
 | **Reproducibility** | Git/GitHub, requirements files, tests, notebooks, documented project structures |
 
 ## Research Focus
 
 My doctoral research integrates **field experiments, plant and soil measurements, hyperspectral reflectance, vegetation indices, statistical analysis, GIS, and remote sensing** to study crop growth, nutrient status, disease signals, and environmental responses under different growing conditions.
 
-My broader goal is to translate agricultural and geospatial data into **defensible analytical workflows and decision-support products**, while keeping measured research findings clearly separate from public synthetic portfolio demonstrations.
+My broader goal is to translate agricultural, environmental, and disaster geospatial data into **defensible analytical workflows and decision-support products**, while keeping measured research findings clearly separate from public synthetic portfolio demonstrations.
 
 ## Selected Research & Publications
 
@@ -111,4 +121,4 @@ My peer-reviewed research covers remote sensing, hyperspectral sensing, plant nu
 
 ---
 
-**Agricultural Data Science • Remote Sensing • GeoAI • Machine Learning • Precision Agriculture • GIS • Python**
+**Agricultural Data Science • Remote Sensing • GeoAI • Machine Learning • Disaster Risk Intelligence • Precision Agriculture • GIS • Python**
