@@ -3,15 +3,7 @@
 </p>
 
 <h1 align="center">Priyanka Belbase</h1>
-<p align="center"><strong>Agricultural Data Science | Remote Sensing | GeoAI | Machine Learning | Disaster Risk Intelligence</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Science-blue?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Remote%20Sensing-Earth%20Observation-green" alt="Remote Sensing" />
-  <img src="https://img.shields.io/badge/GeoAI-Machine%20Learning-purple" alt="GeoAI" />
-  <img src="https://img.shields.io/badge/GIS-ArcGIS%20%7C%20GEE-orange" alt="GIS" />
-  <img src="https://img.shields.io/badge/Disaster%20Risk-Flood%20Intelligence-blue" alt="Disaster Risk" />
-</p>
+<p align="center"><strong>Remote Sensing | GIS | GeoAI | Machine Learning | Agricultural & Disaster-Risk Intelligence</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanka-belbase/">LinkedIn</a> •
@@ -21,90 +13,45 @@
 
 ---
 
-I am completing a **Ph.D. in Earth System Science at Florida International University** and work at the intersection of **agricultural data science, remote sensing, GIS, machine learning, environmental science, Earth observation, and disaster-risk intelligence**.
+I am completing a **Ph.D. in Earth System Science at Florida International University** and work across **remote sensing, GIS, Earth observation, machine learning, environmental science, agricultural data science, and disaster-risk analysis**.
 
-My work combines **field experiments, plant and soil measurements, hyperspectral reflectance, satellite/UAV observations, Python, GIS, and Google Earth Engine** to build reproducible workflows for crop monitoring, stress/disease screening, flood-event mapping, environmental analysis, validation, and decision support.
+My work combines **satellite/UAV observations, hyperspectral reflectance, field and laboratory measurements, Python, GIS, Google Earth Engine, spatial modeling, and reproducible validation workflows** to support crop monitoring, environmental analysis, hazard mapping, change detection, and decision support.
 
-## 🌊 Featured Disaster-Risk Project
+## 🌊 Flood Remote Sensing & Disaster Intelligence
 
 ### [AI Flood Intelligence & Event Mapping](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection)
 **Sentinel-1 SAR • flood detection • change detection • event mapping • uncertainty • exposure/risk intelligence • FastAPI • Streamlit**
 
-An end-to-end disaster-intelligence project built around pre/post SAR analysis, terrain and permanent-water screening, validation, flood confidence, threshold-ensemble uncertainty, population/road/critical-asset exposure, analyst prioritization, dashboard review, and API-based platform integration.
+An end-to-end flood remote-sensing workflow integrating pre/post Sentinel-1 SAR analysis, terrain and permanent-water screening, flood confidence, threshold-ensemble uncertainty, exposure analysis, response-priority scoring, dashboard review, and API-based delivery.
 
-**Real-data extension:** historical **Pakistan 2022 Sentinel-1 flood case study** using public Copernicus Sentinel-1 GRD, JRC surface water, SRTM, and population exposure data.
+The repository also includes a **Pakistan 2022 Sentinel-1 public-data case study** using Copernicus Sentinel-1 GRD, JRC Global Surface Water, SRTM, and population exposure data.
 
-**Synthetic architecture demo:** Accuracy `0.998` • F1 `0.990` • IoU `0.980` • mapped flood extent • uncertainty layer • exposure summary • analyst priority scoring
+## 🌱 Agricultural Remote Sensing & GeoAI
 
-> Synthetic metrics demonstrate the controlled pipeline only and are not operational flood-mapping accuracy claims. The Pakistan case provides the real public-data pathway and still requires event-specific validation before operational use.
+### [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture)
+Field experiments, plant and soil measurements, spectral indicators, Sentinel-2 processing, grouped machine-learning validation, figures, notebooks and reproducible analytical outputs.
 
-## 🌍 Real Public-Data Case Studies
+### [Dragon Fruit Nutrient & Stress Decision Support](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring)
+Soil/tissue nutrients, vegetation indices, Random Forest, anomaly detection, Sentinel-2 Google Earth Engine processing, real South Florida imagery pathway, and Streamlit decision support.
 
-| Project | Real public-data pathway |
+### [AI Dragon Fruit Disease Scouting & Risk Dashboard](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml)
+Hyperspectral ML using PCA, Random Forest, SVM, anomaly detection, grouped validation, spectral visualization and scouting-risk prioritization.
+
+## 🛰️ Geospatial & Earth Observation Projects
+
+- [Geospatial Land-Cover ML](https://github.com/belbasepriyanka/geospatial-land-cover-ml) — Random Forest classification with spatial holdout validation
+- [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis) — point-cloud processing, canopy metrics and USGS 3DEP LAS/LAZ ingestion
+- [Remote Sensing & GIS Portfolio](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio) — raster QA/QC, terrain/hydrology modeling, spatial validation and agricultural ML
+
+## 🌍 Real Public-Data Workflows
+
+| Area | Public-data pathway |
 |---|---|
-| **Flood intelligence** | Pakistan 2022 event using Copernicus Sentinel-1 GRD in Google Earth Engine |
-| **Agricultural remote sensing** | South Florida Sentinel-2 Level-2A vegetation monitoring with NDVI, NDRE, NDMI, and GNDVI |
-| **LiDAR** | USGS 3DEP LAS/LAZ ingestion using `laspy`/`lazrs`, ground classification and canopy metrics |
+| **Flood remote sensing** | Pakistan 2022 event using Copernicus Sentinel-1 GRD |
+| **Vegetation monitoring** | South Florida Sentinel-2 Level-2A imagery |
+| **LiDAR** | USGS 3DEP LAS/LAZ point-cloud processing |
 
-These complement the fully reproducible synthetic demonstrations and show how the same code structure transfers to real Earth-observation products.
-
-## 🌱 Agricultural AI & Precision Agriculture Portfolio
-
-These public repositories are designed as **fully runnable recruiter demonstrations**. Where measured doctoral datasets are not appropriate for public release, the repositories use clearly labeled **synthetic demonstration data generated by code** so the analytical workflow remains reproducible without presenting synthetic outputs as research findings.
-
-### 1. [Dragon Fruit Yield & Flowering Forecasting](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/dragon-fruit-yield-flowering-forecasting)
-**Predictive ML • time series • weather • field experiments • grouped validation**
-
-A 72-plant, repeated-observation agricultural ML demonstration integrating weather, crop growth, management treatment, nutrients, NDVI/NDRE, flowering, fruit set, and season-level yield. Uses **GroupKFold by plant ID** to reduce repeated-measure leakage.
-
-**Demo outputs:** flowering ROC AUC `0.890` • season-yield R² `0.893` • notebooks • figures • tests • machine-readable results
-
----
-
-### 2. [Dragon Fruit Nutrient & Stress Decision Support](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring)
-**Soil + tissue + spectral indicators • ML • anomaly detection • precision agriculture**
-
-Integrates soil/tissue nutrients, weather, canopy moisture, NDVI, NDRE, NDMI, red-edge, NIR, and SWIR features into a stress-screening and scouting-priority workflow. Includes **Random Forest**, **Isolation Forest**, Sentinel-2 **Google Earth Engine**, a **real South Florida Sentinel-2 case-study script**, and a **Streamlit dashboard**.
-
-**Demo outputs:** stress accuracy `94.4%` • ROC AUC `0.949` • nutrient regression • 0–100 risk score • Normal/Monitor/Inspect decision support
-
----
-
-### 3. [AI Dragon Fruit Disease Scouting & Risk Dashboard](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml)
-**Hyperspectral ML • PCA • Random Forest • SVM • anomaly detection • dashboard**
-
-An end-to-end spectral scouting architecture using synthetic hyperspectral signatures from **400–1000 nm**, grouped validation by plant, Random Forest vs PCA+SVM benchmarking, healthy-reference anomaly detection, and an operational scouting-risk dashboard.
-
-**Demo outputs:** Random Forest accuracy `99.7%` • PCA+SVM accuracy `99.4%` • PCA summary • risk scoring • Streamlit dashboard
-
-> High disease-demo scores reflect deliberately separable synthetic signatures and are **not field diagnostic accuracy claims**.
-
----
-
-### 4. [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture)
-**Field experiments • nutrients • spectroscopy • satellite workflows • machine learning**
-
-A broader end-to-end agricultural data-science project connecting a 72-plant experimental structure, field/soil/tissue/spectral/weather features, grouped ML validation, Sentinel-2 processing, figures, notebooks, tests, and reproducible outputs.
-
-## 🔬 Other Featured Geospatial Projects
-
-- [Geospatial Land-Cover ML](https://github.com/belbasepriyanka/geospatial-land-cover-ml) — Random Forest with spatial-block validation
-- [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis) — synthetic reproducibility + real USGS 3DEP LAS/LAZ ingestion
-- [Geospatial Raster ETL & QA/QC](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/geospatial-raster-etl-qaqc) — reproducible raster engineering
-- [Spatial Validation Benchmark](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/spatial-validation-benchmark) — random split vs spatial holdout
-- [Terrain & Hydrology Modeling](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/terrain-hydrology-modeling) — DEM, slope, flow/stream workflow concepts
-
-## End-to-End Workflow
-
-```mermaid
-flowchart LR
-    A[Satellite / UAV / Field / Lab Data] --> B[QA/QC & Harmonization]
-    B --> C[Feature Engineering]
-    C --> D[Statistics & Machine Learning]
-    D --> E[Spatial / Grouped Validation]
-    E --> F[Explainability & Error Analysis]
-    F --> G[Maps / Dashboards / Decision Support]
-```
+Public demonstration datasets are clearly labeled synthetic where used. Synthetic outputs are kept separate from measured research findings and are used to demonstrate reproducible methods, model validation, software workflows and decision-support concepts.
 
 ## Technical Toolkit
 
@@ -113,24 +60,24 @@ flowchart LR
 | **Programming** | Python, R, SQL, JavaScript, ArcPy |
 | **Data Science** | NumPy, Pandas, GeoPandas, scikit-learn, Matplotlib |
 | **Machine Learning** | Random Forest, SVM, Gradient Boosting, PCA, classification, regression, anomaly detection |
-| **GIS** | ArcGIS Pro, ArcGIS Online/Enterprise, QGIS, Google Earth Engine, PostGIS |
+| **GIS** | ArcGIS Pro, ArcGIS, QGIS, Google Earth Engine, PostGIS |
 | **Remote Sensing** | Sentinel-1/2, Landsat, PlanetScope, NAIP, hyperspectral/multispectral, UAV, LiDAR |
-| **Validation & QA/QC** | grouped/spatial holdout, confusion matrices, F1, ROC AUC, IoU, MAE, R², metadata, data-quality checks |
-| **Decision Support** | Streamlit, FastAPI, ArcGIS Dashboards, Power BI, Tableau |
-| **Reproducibility** | Git/GitHub, requirements files, tests, notebooks, documented project structures |
+| **Validation & QA/QC** | grouped/spatial holdout, confusion matrices, F1, ROC AUC, IoU, MAE, R², metadata and data-quality checks |
+| **Decision Support** | Streamlit, FastAPI, Power BI, Tableau |
+| **Reproducibility** | Git/GitHub, requirements files, tests, notebooks and documented workflows |
 
 ## Research Focus
 
-My doctoral research integrates **field experiments, plant and soil measurements, hyperspectral reflectance, vegetation indices, statistical analysis, GIS, and remote sensing** to study crop growth, nutrient status, disease signals, and environmental responses under different growing conditions.
+My doctoral research integrates **field experiments, plant and soil measurements, hyperspectral reflectance, vegetation indices, statistical analysis, GIS and remote sensing** to study crop growth, nutrient status, disease signals and environmental responses under different growing conditions.
 
-My broader goal is to translate agricultural, environmental, and disaster geospatial data into **defensible analytical workflows and decision-support products**, while keeping measured research findings clearly separate from public synthetic portfolio demonstrations.
+My broader work focuses on translating agricultural, environmental and disaster geospatial data into **defensible analytical workflows, maps, models and decision-support products**.
 
-## Selected Research & Publications
+## Publications
 
-My peer-reviewed research covers remote sensing, hyperspectral sensing, plant nutrient assessment, disease detection, vegetation monitoring, precision agriculture, GIS, and environmental science.
+My peer-reviewed research covers remote sensing, hyperspectral sensing, plant nutrient assessment, disease detection, vegetation monitoring, precision agriculture, GIS and environmental science.
 
 📚 [View publications on Google Scholar](https://scholar.google.com/citations?user=bkSmlQ8AAAAJ&hl=en&oi=ao)
 
 ---
 
-**Agricultural Data Science • Remote Sensing • GeoAI • Machine Learning • Disaster Risk Intelligence • Precision Agriculture • GIS • Python**
+**Remote Sensing • GIS • GeoAI • Machine Learning • Earth Observation • Precision Agriculture • Disaster Risk Analysis • Python**
