@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Priyanka Belbase</h1>
-<p align="center"><strong>Remote Sensing | GIS | GeoAI | Machine Learning | Agricultural & Disaster-Risk Intelligence</strong></p>
+<p align="center"><strong>Geospatial Data Science | Remote Sensing | GeoAI & Machine Learning | Environmental Modeling</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanka-belbase/">LinkedIn</a> •
@@ -13,64 +13,63 @@
 
 ---
 
-I am completing a **Ph.D. in Earth System Science at Florida International University** and work across **remote sensing, GIS, Earth observation, machine learning, environmental science, agricultural data science, and disaster-risk analysis**.
+I am a geospatial data scientist and Ph.D. candidate in Earth System Science at Florida International University with 7+ years of experience across **GIS, remote sensing, Python-based geospatial processing, environmental modeling, machine learning, and reproducible spatial analysis**.
 
-My work combines **satellite/UAV observations, hyperspectral reflectance, field and laboratory measurements, Python, GIS, Google Earth Engine, spatial modeling, and reproducible validation workflows** to support crop monitoring, environmental analysis, hazard mapping, change detection, and decision support.
+My work focuses on acquiring, cleaning, integrating, modeling, validating, and communicating complex **raster, vector, tabular, field, GPS, satellite, UAV, LiDAR, and environmental datasets**. I build repeatable workflows in **Python, ArcPy, R, SQL, QGIS, ArcGIS Pro, PostGIS, and Google Earth Engine**, with strong attention to QA/QC, metadata, spatial validation, and decision-support delivery.
 
-## 🌊 Flood Remote Sensing & Disaster Intelligence
+## Featured Geospatial Data Science Work
 
-### [AI Flood Intelligence & Event Mapping](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection)
-**Sentinel-1 SAR • flood detection • change detection • event mapping • uncertainty • exposure/risk intelligence • FastAPI • Streamlit**
+### [Geospatial Raster ETL & QA/QC Pipeline](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/geospatial-raster-etl-qaqc)
+**Python • raster processing • CRS/resolution validation • NoData screening • automated QA reporting • tests**
 
-An end-to-end flood remote-sensing workflow integrating pre/post Sentinel-1 SAR analysis, terrain and permanent-water screening, flood confidence, threshold-ensemble uncertainty, exposure analysis, response-priority scoring, dashboard review, and API-based delivery.
+A reproducible geospatial data-engineering workflow for inventory checks, validation gates, quality reporting, and analysis-ready raster handoff.
 
-The repository also includes a **Pakistan 2022 Sentinel-1 public-data case study** using Copernicus Sentinel-1 GRD, JRC Global Surface Water, SRTM, and population exposure data.
+### [Spatial Validation Benchmark](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/spatial-validation-benchmark)
+**Python • scikit-learn • spatial cross-validation • model evaluation • reproducibility**
 
-## 🌱 Agricultural Remote Sensing & GeoAI
+A benchmark comparing random train/test splits with spatial holdout validation to show how spatial dependence can inflate apparent model performance.
 
-### [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture)
-Field experiments, plant and soil measurements, spectral indicators, Sentinel-2 processing, grouped machine-learning validation, figures, notebooks and reproducible analytical outputs.
+### [Terrain & Hydrology Modeling](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio/tree/main/projects/terrain-hydrology-modeling)
+**DEM processing • terrain derivatives • slope • flow accumulation • stream screening • QA/QC**
 
-### [Dragon Fruit Nutrient & Stress Decision Support](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring)
-Soil/tissue nutrients, vegetation indices, Random Forest, anomaly detection, Sentinel-2 Google Earth Engine processing, real South Florida imagery pathway, and Streamlit decision support.
+A terrain-analysis workflow demonstrating DEM-based hydrologic processing, validation, and reproducible geospatial outputs.
 
-### [AI Dragon Fruit Disease Scouting & Risk Dashboard](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml)
-Hyperspectral ML using PCA, Random Forest, SVM, anomaly detection, grouped validation, spectral visualization and scouting-risk prioritization.
+### [Geospatial Land-Cover ML](https://github.com/belbasepriyanka/geospatial-land-cover-ml)
+**Remote sensing • Random Forest • spatial holdout validation • feature importance • tests**
 
-## 🛰️ Geospatial & Earth Observation Projects
+A reproducible land-cover classification workflow emphasizing defensible geospatial machine-learning evaluation.
 
-- [Geospatial Land-Cover ML](https://github.com/belbasepriyanka/geospatial-land-cover-ml) — Random Forest classification with spatial holdout validation
-- [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis) — point-cloud processing, canopy metrics and USGS 3DEP LAS/LAZ ingestion
-- [Remote Sensing & GIS Portfolio](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio) — raster QA/QC, terrain/hydrology modeling, spatial validation and agricultural ML
+## Additional Applied Projects
 
-## 🌍 Real Public-Data Workflows
-
-| Area | Public-data pathway |
-|---|---|
-| **Flood remote sensing** | Pakistan 2022 event using Copernicus Sentinel-1 GRD |
-| **Vegetation monitoring** | South Florida Sentinel-2 Level-2A imagery |
-| **LiDAR** | USGS 3DEP LAS/LAZ point-cloud processing |
-
-Public demonstration datasets are clearly labeled synthetic where used. Synthetic outputs are kept separate from measured research findings and are used to demonstrate reproducible methods, model validation, software workflows and decision-support concepts.
+- [AI Flood Intelligence & Event Mapping](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection) — Sentinel-1 SAR change detection, terrain/water screening, uncertainty, exposure analysis, FastAPI and Streamlit
+- [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis) — point-cloud processing, terrain/canopy metrics and USGS 3DEP LAS/LAZ ingestion
+- [Remote Sensing & GIS Portfolio](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio) — raster QA/QC, terrain/hydrology, spatial validation and applied GeoAI workflows
+- [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture) — field, spectral, satellite and machine-learning analysis
+- [Dragon Fruit Nutrient & Stress Decision Support](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring) — Sentinel-2, nutrients, anomaly detection and decision support
+- [Hyperspectral Plant Stress ML](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml) — PCA, Random Forest, SVM and grouped validation
 
 ## Technical Toolkit
 
 | Area | Tools & Methods |
 |---|---|
-| **Programming** | Python, R, SQL, JavaScript, ArcPy |
+| **Programming** | Python, ArcPy, R, SQL, JavaScript |
 | **Data Science** | NumPy, Pandas, GeoPandas, scikit-learn, Matplotlib |
 | **Machine Learning** | Random Forest, SVM, Gradient Boosting, PCA, classification, regression, anomaly detection |
-| **GIS** | ArcGIS Pro, ArcGIS, QGIS, Google Earth Engine, PostGIS |
+| **GIS** | ArcGIS Pro, ArcGIS Online/Enterprise, QGIS, Google Earth Engine, PostGIS |
 | **Remote Sensing** | Sentinel-1/2, Landsat, PlanetScope, NAIP, hyperspectral/multispectral, UAV, LiDAR |
-| **Validation & QA/QC** | grouped/spatial holdout, confusion matrices, F1, ROC AUC, IoU, MAE, R², metadata and data-quality checks |
-| **Decision Support** | Streamlit, FastAPI, Power BI, Tableau |
-| **Reproducibility** | Git/GitHub, requirements files, tests, notebooks and documented workflows |
+| **Terrain & Hydrology** | DEM/DSM processing, slope, drainage, flow accumulation, watershed and flood-risk analysis |
+| **Data Engineering** | raster/vector ETL, geodatabases, CRS harmonization, metadata, QA/QC, analysis-ready data |
+| **Validation** | spatial/grouped holdout, confusion matrices, F1, ROC AUC, IoU, MAE, R², data-quality checks |
+| **Visualization & Delivery** | ArcGIS Dashboards, Streamlit, FastAPI, Power BI, Tableau |
+| **Reproducibility** | Git/GitHub, requirements files, tests, notebooks, documented workflows |
 
-## Research Focus
+## Professional & Research Context
 
-My doctoral research integrates **field experiments, plant and soil measurements, hyperspectral reflectance, vegetation indices, statistical analysis, GIS and remote sensing** to study crop growth, nutrient status, disease signals and environmental responses under different growing conditions.
+My experience spans academic research and applied GIS work supporting **land, water, environmental assessment, hazard mapping, planning, infrastructure, and government decision-making**. I have worked with interdisciplinary teams, produced technical maps and reports, developed geodatabases and automated workflows, and translated geospatial analysis into clear products for technical and non-technical audiences.
 
-My broader work focuses on translating agricultural, environmental and disaster geospatial data into **defensible analytical workflows, maps, models and decision-support products**.
+## Data Transparency
+
+Public demonstration datasets are clearly labeled synthetic where used. Synthetic outputs are kept separate from measured research findings and are used to demonstrate methods, validation, software workflows, and decision-support concepts. Projects using public Earth-observation data identify their data sources and processing pathways.
 
 ## Publications
 
@@ -80,4 +79,4 @@ My peer-reviewed research covers remote sensing, hyperspectral sensing, plant nu
 
 ---
 
-**Remote Sensing • GIS • GeoAI • Machine Learning • Earth Observation • Precision Agriculture • Disaster Risk Analysis • Python**
+**Geospatial Data Science • GIS • Remote Sensing • GeoAI • Python • Machine Learning • Environmental Modeling • Spatial Validation • QA/QC**
