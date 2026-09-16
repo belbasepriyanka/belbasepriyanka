@@ -17,7 +17,29 @@ I am a geospatial data scientist and Ph.D. candidate in Earth System Science at 
 
 My work focuses on acquiring, cleaning, integrating, modeling, validating, and communicating complex **raster, vector, tabular, field, GPS, satellite, UAV, LiDAR, and environmental datasets**. I build repeatable workflows in **Python, ArcPy, R, SQL, QGIS, ArcGIS Pro, PostGIS, and Google Earth Engine**, with strong attention to QA/QC, metadata, spatial validation, and decision-support delivery.
 
-## Featured Geospatial Data Science Work
+## Featured GeoAI & Machine Learning Projects
+
+### [GeoAI Multi-Sensor Crop Stress Intelligence](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring)
+**Python • scikit-learn • Sentinel-2 • multisensor features • spatial validation • uncertainty • decision support**
+
+A multi-source crop-stress analytics workflow combining satellite vegetation indices, spectral and environmental indicators, machine learning, anomaly detection, model interpretation, and scouting-priority mapping. The public repository clearly separates real Sentinel-2 workflows from synthetic demonstration data.
+
+### [Urban Tree-Canopy Mapping | LiDAR + NAIP + Random Forest](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis)
+**LiDAR • NAIP • Random Forest • point-cloud processing • feature engineering • QA/QC**
+
+An applied urban-canopy workflow integrating USGS 3DEP LiDAR and NAIP multispectral imagery to derive DSM/DTM/CHM products, spectral features, and Random Forest land-cover classification for green-infrastructure planning.
+
+### [Hyperspectral Plant Disease Detection | Spectral ML](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml)
+**Hyperspectral sensing • PCA • Random Forest • SVM • grouped validation • anomaly detection**
+
+A reproducible spectral-machine-learning workflow demonstrating preprocessing, feature analysis, supervised classification, grouped validation, anomaly scoring, uncertainty-aware interpretation, and operational scouting outputs. The repository is aligned with published doctoral research while keeping public demonstration data distinct from measured research data.
+
+### [Multi-Temporal Land-Use / Land-Cover Change Detection](https://github.com/belbasepriyanka/geospatial-land-cover-ml/tree/main/multitemporal_change_detection)
+**Landsat/Sentinel-ready • raster processing • transition matrices • change detection • spatial QA/QC**
+
+A reproducible change-detection workflow for comparing classified rasters across time, generating transition matrices and change maps, and summarizing land-cover transitions in a form suitable for urban-growth and environmental-change analysis.
+
+## Additional Featured Geospatial Data Science Work
 
 ### [Deep Learning for Weed-Species Classification](https://github.com/belbasepriyanka/geospatial-land-cover-ml/tree/main/deepweeds_pytorch)
 **PyTorch • ResNet-18 • transfer learning • vegetation classification • reproducible evaluation**
@@ -39,19 +61,11 @@ A benchmark comparing random train/test splits with spatial holdout validation t
 
 A terrain-analysis workflow demonstrating DEM-based hydrologic processing, validation, and reproducible geospatial outputs.
 
-### [Geospatial Land-Cover ML](https://github.com/belbasepriyanka/geospatial-land-cover-ml)
-**Remote sensing • Random Forest • spatial holdout validation • PyTorch deep learning • feature importance • tests**
-
-A reproducible land-cover and vegetation ML repository combining defensible spatial validation with a PyTorch DeepWeeds classification extension.
-
 ## Additional Applied Projects
 
 - [AI Flood Intelligence & Event Mapping](https://github.com/belbasepriyanka/sar-flood-mapping-change-detection) — Sentinel-1 SAR change detection, terrain/water screening, uncertainty, exposure analysis, FastAPI and Streamlit
-- [LiDAR Canopy & Terrain Analysis](https://github.com/belbasepriyanka/lidar-canopy-terrain-analysis) — point-cloud processing, terrain/canopy metrics and USGS 3DEP LAS/LAZ ingestion
 - [Remote Sensing & GIS Portfolio](https://github.com/belbasepriyanka/Remote-Sensing-GIS-portfolio) — raster QA/QC, terrain/hydrology, spatial validation and applied GeoAI workflows
 - [Dragon Fruit Remote Sensing & Precision Agriculture](https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture) — field, spectral, satellite and machine-learning analysis
-- [Dragon Fruit Nutrient & Stress Decision Support](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring) — Sentinel-2, nutrients, anomaly detection and decision support
-- [Hyperspectral Plant Stress ML](https://github.com/belbasepriyanka/hyperspectral-plant-stress-ml) — PCA, Random Forest, SVM and grouped validation
 
 ## Technical Toolkit
 
