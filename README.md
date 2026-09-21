@@ -25,6 +25,22 @@ I work with satellite, UAV, LiDAR, hyperspectral, field, and environmental data 
 
 ### Selected work
 
+<p align="center">
+  <a href="https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring">
+    <img src="https://raw.githubusercontent.com/belbasepriyanka/sentinel2-vegetation-health-monitoring/main/assets/preview.svg" alt="GeoAI multi-sensor crop-stress project preview" width="100%" />
+  </a>
+</p>
+
+### Featured: GeoAI Multi-Sensor Crop Stress Intelligence
+
+**Satellite + UAV + hyperspectral data fusion | Python · scikit-learn · Google Earth Engine · spatial cross-validation**
+
+A reproducible crop-stress decision-support project linking vegetation indices, simulated UAV and hyperspectral features, soil conditions and weather with Random Forest prediction, spatially grouped validation, uncertainty screening and GIS-ready scouting priorities.
+
+**[Explore project, source code and spatial-validation demo →](https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring)**
+
+<sub>The multi-sensor demo uses simulated data. A separate Earth Engine script processes real public Sentinel-2 imagery; field-validation results are not claimed.</sub>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -43,8 +59,8 @@ I work with satellite, UAV, LiDAR, hyperspectral, field, and environmental data 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring"><img src="https://raw.githubusercontent.com/belbasepriyanka/sentinel2-vegetation-health-monitoring/main/assets/preview.svg" alt="Sentinel-2 vegetation monitoring project preview" /></a>
-      <br /><strong><a href="https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring">Satellite | Crop Stress Intelligence</a></strong><br />
-      Vegetation indices, multisensor indicators, anomaly analysis, and mapping to prioritize field scouting.<br />
+      <br /><strong><a href="https://github.com/belbasepriyanka/sentinel2-vegetation-health-monitoring">GeoAI | Multi-Sensor Crop Stress</a></strong><br />
+      Satellite vegetation indices, simulated UAV and hyperspectral features, spatial validation, uncertainty screening, and scouting-priority mapping.<br />
       <sub>Sentinel-2 · Google Earth Engine · Python · GeoAI</sub>
     </td>
     <td width="50%" valign="top">
